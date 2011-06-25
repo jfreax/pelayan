@@ -1,0 +1,8 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Bits\< N \>::BitAccess",height=0.2,width=0.4,color="black",URL="$classBits_1_1BitAccess.html",tooltip="Access to one bit in Bits struct Provides access to one bit. Is used by the [] operator of Bits to mo..."];
+}

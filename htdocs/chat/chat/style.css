@@ -1,0 +1,71 @@
+h {
+	text-align:  right;
+	font-family: Verdana, sans-serif;
+	font-size:   17;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.Chat {
+	width: 90%;
+	background-color: #FF9900;
+	border:           1px outset #FF9900;
+	padding:          5px 5px 5px 5px;
+}
+
+.Frame {
+	background-color: #EEEEEE;
+	border:           1px inset #777777;
+	padding:          5px 5px 5px 5px;
+}
+
+.MessagePanel {
+	height:           400;
+	width:            100%;
+	
+	overflow:         auto;
+	text-align:       left;
+	
+	font-family: Verdana, sans-serif;
+	font-size:   12;
+}
+
+.ControlPanel {
+	height:     99%;
+	
+	text-align: left;
+	padding:    0px 5px 0px 5px;
+	
+	background-color: #CC6600;
+	border:           1px outset #CC6600;
+	
+	font-family: Verdana, sans-serif;
+	font-size:   12;
+}
+
+
+.ControlHead {
+	font-weight:   bold;
+	border-bottom: 1px solid rgb(0, 0, 0);
+}
+.ControlPanel div {
+	margin-top:    5px;
+	margin-bottom: 5px;
+}
+
+.Button {
+	border:           1px outset #333333;
+	background-color: #333333;
+	color:            #EEEEEE;
+	
+	font-family:      Verdana, sans-serif;
+	font-size:        12;
+}
+.Text {
+	background-color: #EEEEEE;
+	border:           1px inset #777777;
+	
+	font-family: Verdana, sans-serif;
+	font-size:   12;
+}
+

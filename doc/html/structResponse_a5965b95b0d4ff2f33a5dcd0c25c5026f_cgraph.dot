@@ -1,0 +1,16 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Response::resSendFile",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Compress::cprDel",height=0.2,width=0.4,color="black",URL="$structCompress.html#a95898c0e81588af5fa5ca6b25c4b063a"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Compress::cprGetNext",height=0.2,width=0.4,color="black",URL="$structCompress.html#a87697ac2962119c4bd642b510cfa529c"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Response::resSendChunksize",height=0.2,width=0.4,color="black",URL="$structResponse.html#a68277b0981745f4d62f8e9dcd767e203"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Response::resSendEnd",height=0.2,width=0.4,color="black",URL="$structResponse.html#a63ac9b985f46a615ea6a05c10f8fda2a"];
+}

@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structClient.html#a5a71e07837642785fc1fa3c906be6641" title="Client::clDelete" alt="" coords="184,131,309,159"/>
+<area shape="rect" id="node5" href="$structResponse.html#a0735f41f650e4a0f3dff85b26aec75e3" title="Response::response" alt="" coords="357,106,515,134"/>
+<area shape="rect" id="node11" href="$structServer.html#a5fd020f6b3d0e9126fc1feb039bec404" title="Server::srvRun" alt="" coords="1111,55,1231,83"/>
+<area shape="rect" id="node7" href="$structRequest.html#a3cc8f86cef8b75c6fb866bb6a7c32c77" title="Request::reqParse" alt="" coords="604,5,748,33"/>
+<area shape="rect" id="node15" href="$structResponse.html#aecb6582874122f9e29074eef8cf2c05b" title="Response::resRetryWFilename" alt="" coords="563,106,789,134"/>
+<area shape="rect" id="node9" href="$structRequest.html#ae7c72d7a8e1b2f585445460334f7c210" title="Request::reqTestCompletness" alt="" coords="839,5,1060,33"/>
+<area shape="rect" id="node13" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="1281,55,1377,83"/>
+</map>

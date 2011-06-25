@@ -1,0 +1,20 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Client::clDelete",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Buffer::bufDel",height=0.2,width=0.4,color="black",URL="$structBuffer.html#aafeb7abc9a5efb42f635bfd1ce511174"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Client::clPop",height=0.2,width=0.4,color="black",URL="$structClient.html#a67588979bb67b2029558ca5dc5a5a377"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Client::clAdjustSize",height=0.2,width=0.4,color="black",URL="$structClient.html#a57ea25e09986e553293fc26cbf8cc983"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Compress::cprDel",height=0.2,width=0.4,color="black",URL="$structCompress.html#a3b0ab7e2bda0a2f723ef48db1546f77c"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Request::reqDel",height=0.2,width=0.4,color="black",URL="$structRequest.html#a0c9e2440cbd1ed09ee92b842eb31befa"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Response::resDel",height=0.2,width=0.4,color="black",URL="$structResponse.html#a33034c5ca0f47c83b593cb93db980f7d"];
+}

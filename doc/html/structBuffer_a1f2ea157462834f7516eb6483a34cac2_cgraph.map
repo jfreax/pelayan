@@ -1,0 +1,18 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structBuffer.html#a9c1a1d64d1cb66061a74bd122a8aa832" title="Buffer::bufAdjustSize" alt="" coords="185,88,348,116"/>
+<area shape="rect" id="node5" href="$structBuffer.html#a62baf30a0040857f478a304b95f7dfdf" title="Buffer::bufNewline" alt="" coords="193,139,340,167"/>
+<area shape="rect" id="node7" href="$structBuffer.html#a456e782e77c0738740269ebb042da870" title="Buffer::bufDel" alt="" coords="412,88,527,116"/>
+<area shape="rect" id="node9" href="$structBuffer.html#aea6bbcad454ee02282887ccbfdeb88e7" title="Buffer::bufInit" alt="" coords="412,139,527,167"/>
+<area shape="rect" id="node12" href="$structRequest.html#a50558c20615998131eb5d8f5e99cbc88" title="Request::reqParse" alt="" coords="397,190,541,218"/>
+<area shape="rect" id="node14" href="$structResponse.html#ad33a090b0ff1286e944de6f088307262" title="Response::response" alt="" coords="589,190,747,218"/>
+<area shape="rect" id="node16" href="$structRequest.html#a9341f192029839333a81d7e79fa25a59" title="Request::reqGetFileType" alt="" coords="1107,63,1293,91"/>
+<area shape="rect" id="node18" href="$structResponse.html#a1a1ac1e98a7c5ca681aec02b19188e54" title="Response::resGetFileName" alt="" coords="1368,38,1571,66"/>
+<area shape="rect" id="node20" href="$structResponse.html#a06e36aa31e40640496c46c61b22c0991" title="Response::resClose" alt="" coords="837,114,989,142"/>
+<area shape="rect" id="node23" href="$structResponse.html#a4d8b5527e494612759feafc54d92e06b" title="Response::resRetryWFilename" alt="" coords="800,164,1027,192"/>
+<area shape="rect" id="node26" href="$structResponse.html#a500ab397cd502a5d8d8faf04417f14b1" title="Response::resSendEnd" alt="" coords="825,215,1001,243"/>
+<area shape="rect" id="node28" href="$structResponse.html#abf2b612dd7349fd93e87b8e6e7270693" title="Response::resSendLength" alt="" coords="815,266,1012,294"/>
+<area shape="rect" id="node30" href="$structResponse.html#a13d31b4cb20d47329016e1110d50487a" title="Response::resSendNewLocation" alt="" coords="795,316,1032,344"/>
+<area shape="rect" id="node32" href="$structResponse.html#a011d39624d7d11c3d273888da8d3660e" title="Response::resSendStatus" alt="" coords="817,367,1009,395"/>
+<area shape="rect" id="node34" href="$structResponse.html#a4969c079a47cf29ec09a15bfa04f03da" title="Response::resSendType" alt="" coords="823,418,1004,446"/>
+<area shape="rect" id="node37" href="$structResponse.html#a124e3d8b86987aa8e59e586f4973343f" title="Response::resSendAcceptRange" alt="" coords="1080,418,1320,446"/>
+</map>

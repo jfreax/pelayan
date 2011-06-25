@@ -1,0 +1,38 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x02\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0e\x00p\x00e\x00l\x00a\x00y\x00a\x00n\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x0e\x00p\x00e\x00l\x00a\x00y\x00a\x00n)
+
+[CMake]
+BuildDirs=/home/jens/C++/pelayan/build
+CMakeDir=/usr/share/cmake/Modules
+Current CMake Binary=file:///usr/bin/cmake
+CurrentBuildDir=file:///home/jens/C++/pelayan/build
+CurrentBuildType=Debug
+CurrentInstallDir=file:///usr/local
+Extra Arguments=
+ProjectRootRelative=./
+
+[Launch]
+Launch Configurations=Launch Configuration 0
+
+[Launch][Launch Configuration 0]
+Configured Launch Modes=execute
+Configured Launchers=nativeAppLauncher
+Name=New Native Application Configuration
+Type=Native Application
+
+[Launch][Launch Configuration 0][Data]
+Arguments=-p 8080
+Dependencies=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x00)
+Dependency Action=Nothing
+EnvironmentGroup=default
+Executable=file:///home/jens/C++/pelayan/build/src/pelayan
+External Terminal=konsole --noclose --workdir %workdir -e %exe
+Use External Terminal=false
+Working Directory=
+isExecutable=true
+
+[MakeBuilder]
+Number Of Jobs=1
+
+[Project]
+VersionControlSupport=kdevgit

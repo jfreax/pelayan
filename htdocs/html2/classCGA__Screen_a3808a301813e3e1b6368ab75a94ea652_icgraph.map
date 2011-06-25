@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCGA__Screen.html#a169347ad29e4739b98f98fe703298f5a" title="CGA_Screen::print" alt="" coords="228,45,372,73"/>
+<area shape="rect" id="node18" href="$classCGA__Screen.html#ac9b905c0488f0cd04ab189d766351ed0" title="CGA_Screen::setpos" alt="" coords="221,171,379,199"/>
+<area shape="rect" id="node5" href="$classCGA__Stream.html#a73572f5377a28f09ee9dc3af7b5a65b9" title="CGA_Stream::flush" alt="" coords="623,185,769,213"/>
+<area shape="rect" id="node7" href="$classTask3.html#addb62f1b1f8c1dea771600155bdc13f1" title="prints the line" alt="" coords="843,7,955,35"/>
+<area shape="rect" id="node9" href="$classTask2.html#aa5de17846032b02d6d0819cdc78b1b3e" title="prints the line" alt="" coords="843,185,955,213"/>
+<area shape="rect" id="node11" href="$classTask1.html#a587ce3fad20f9ec4ec88beefd08db49e" title="test the functionality of the Keyboard_Controller object" alt="" coords="819,349,979,377"/>
+<area shape="rect" id="node15" href="$classTask1.html#a48ca608ac9cdc03ab6614a4f61e2448e" title="test the functionality of the Kout object" alt="" coords="836,298,961,326"/>
+<area shape="rect" id="node13" href="$classTask1.html#a0d4029a13591e70af436c0ead066ea5c" title="parse and print multiboot information" alt="" coords="1027,349,1139,377"/>
+<area shape="rect" id="node23" href="$classCGA__Stream.html#adcc398966104516146904721d2139ea1" title="CGA_Stream::newl" alt="" coords="427,247,573,275"/>
+<area shape="rect" id="node26" href="$classCGA__Screen.html#aee3d3fd71126948e124b2b194167b732" title="CGA_Screen::print" alt="" coords="428,95,572,123"/>
+<area shape="rect" id="node28" href="$classTask2.html#a4adb42b6119375dfec56808c158dd7dc" title="Default constructor." alt="" coords="447,146,553,174"/>
+<area shape="rect" id="node30" href="$classTask3.html#a218d9d4615994bdc7b6075ce03d2610c" title="Default constructor." alt="" coords="447,197,553,225"/>
+</map>

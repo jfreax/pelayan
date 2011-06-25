@@ -1,0 +1,14 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Response::resSendType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Request::reqGetFileType",height=0.2,width=0.4,color="black",URL="$structRequest.html#a9341f192029839333a81d7e79fa25a59"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Response::resGetFileName",height=0.2,width=0.4,color="black",URL="$structResponse.html#a1a1ac1e98a7c5ca681aec02b19188e54"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Response::resSendAcceptRange",height=0.2,width=0.4,color="black",URL="$structResponse.html#a124e3d8b86987aa8e59e586f4973343f"];
+}

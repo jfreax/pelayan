@@ -1,0 +1,14 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structBuffer.html#a3138daa1ce10dccb3566251ffab742d8" title="Buffer::bufReset" alt="" coords="181,233,312,261"/>
+<area shape="rect" id="node11" href="$structClient.html#ab91ac822c4e44054e36ab4223bd9ef79" title="Client::clAdjustSize" alt="" coords="171,55,323,83"/>
+<area shape="rect" id="node21" href="$structClient.html#a5a71e07837642785fc1fa3c906be6641" title="Client::clDelete" alt="" coords="184,157,309,185"/>
+<area shape="rect" id="node5" href="$structRequest.html#ae7c72d7a8e1b2f585445460334f7c210" title="Request::reqTestCompletness" alt="" coords="852,233,1073,261"/>
+<area shape="rect" id="node7" href="$structServer.html#a5fd020f6b3d0e9126fc1feb039bec404" title="Server::srvRun" alt="" coords="1124,81,1244,109"/>
+<area shape="rect" id="node9" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="1295,43,1391,71"/>
+<area shape="rect" id="node13" href="$structClient.html#a517beb6363df101c03416bf906d1c735" title="Client::clAdd" alt="" coords="636,30,743,58"/>
+<area shape="rect" id="node15" href="$structServer.html#aa1c268fdbdf7ccd5aceec88f24eaeb2b" title="Server::srvAccept" alt="" coords="892,30,1033,58"/>
+<area shape="rect" id="node18" href="$structServer.html#a0ab8b78cd782d9acca948cade19b06ea" title="Server::srvInit" alt="" coords="1125,5,1243,33"/>
+<area shape="rect" id="node23" href="$structResponse.html#a0735f41f650e4a0f3dff85b26aec75e3" title="Response::response" alt="" coords="371,182,528,210"/>
+<area shape="rect" id="node25" href="$structRequest.html#a3cc8f86cef8b75c6fb866bb6a7c32c77" title="Request::reqParse" alt="" coords="617,233,761,261"/>
+<area shape="rect" id="node28" href="$structResponse.html#aecb6582874122f9e29074eef8cf2c05b" title="Response::resRetryWFilename" alt="" coords="576,182,803,210"/>
+</map>

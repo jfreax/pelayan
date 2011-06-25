@@ -1,0 +1,19 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Request::reqInit",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Client::clAdd",height=0.2,width=0.4,color="black",URL="$structClient.html#af531e7825f6f5198d94e5ebc7fe3cb61"];
+  Node2 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Server::srvAccept",height=0.2,width=0.4,color="black",URL="$structServer.html#adb92a1c65d51acd1bbae57867fb4ffbc"];
+  Node3 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Server::srvRun",height=0.2,width=0.4,color="black",URL="$structServer.html#a3af8b347c989209ca4617ee4f6db3f55"];
+  Node4 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Main::main",height=0.2,width=0.4,color="black",URL="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627"];
+  Node2 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Server::srvInit",height=0.2,width=0.4,color="black",URL="$structServer.html#a7cc80a3238933d9e3424786319cde87c"];
+  Node6 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

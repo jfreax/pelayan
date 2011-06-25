@@ -1,0 +1,11 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCGA__Screen.html#aeb2ed01a8ec0eb4a0d245c6759184089" title="CGA_Screen::attrib" alt="" coords="821,38,971,66"/>
+<area shape="rect" id="node5" href="$classCPU.html#a23c8f5e46dac3304f1d8def9c612b88e" title="globally dissable interrupts" alt="" coords="211,165,341,193"/>
+<area shape="rect" id="node7" href="$classCPU.html#ab5e5a2260ef84a433c181786f11c4609" title="globally enable interrupts" alt="" coords="212,215,340,243"/>
+<area shape="rect" id="node9" href="$classCGA__Stream.html#adcc398966104516146904721d2139ea1" title="CGA_Stream::newl" alt="" coords="203,63,349,91"/>
+<area shape="rect" id="node18" href="$classCGA__Screen.html#a169347ad29e4739b98f98fe703298f5a" title="CGA_Screen::print" alt="" coords="204,114,348,142"/>
+<area shape="rect" id="node23" href="$classStringbuffer.html#a1318360e349f0fd98f686f4c5fdc191e" title="Stringbuffer::reset" alt="" coords="204,266,348,294"/>
+<area shape="rect" id="node11" href="$classCGA__Screen.html#aa855a96a726654e7cde6a5ae6561efa5" title="CGA_Screen::getpos" alt="" coords="397,114,557,142"/>
+<area shape="rect" id="node13" href="$classCGA__Screen.html#ac9b905c0488f0cd04ab189d766351ed0" title="CGA_Screen::setpos" alt="" coords="399,63,556,91"/>
+<area shape="rect" id="node15" href="$classCGA__Screen.html#a3808a301813e3e1b6368ab75a94ea652" title="CGA_Screen::scrollup" alt="" coords="607,63,772,91"/>
+</map>

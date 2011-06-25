@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structCompress.html#a3b0ab7e2bda0a2f723ef48db1546f77c" title="Compress::cprDel" alt="" coords="267,5,408,33"/>
+<area shape="rect" id="node5" href="$structCompress.html#ae670638d5d19cc316b0032fbc386cdce" title="Compress::cprGetNext" alt="" coords="251,55,424,83"/>
+<area shape="rect" id="node7" href="$structResponse.html#abbb06daf0eeaefa7459b759bf3173ab2" title="Response::resSendChunksize" alt="" coords="228,106,447,134"/>
+<area shape="rect" id="node9" href="$structResponse.html#a500ab397cd502a5d8d8faf04417f14b1" title="Response::resSendEnd" alt="" coords="249,157,425,185"/>
+</map>

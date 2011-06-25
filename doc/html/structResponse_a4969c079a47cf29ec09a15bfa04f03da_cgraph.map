@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structRequest.html#a9341f192029839333a81d7e79fa25a59" title="Request::reqGetFileType" alt="" coords="264,5,451,33"/>
+<area shape="rect" id="node7" href="$structResponse.html#a124e3d8b86987aa8e59e586f4973343f" title="Response::resSendAcceptRange" alt="" coords="237,55,477,83"/>
+<area shape="rect" id="node5" href="$structResponse.html#a1a1ac1e98a7c5ca681aec02b19188e54" title="Response::resGetFileName" alt="" coords="525,5,728,33"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classApplication.html" title="Application" alt="" coords="27,99,125,127"/>
+<area shape="rect" id="node4" href="$structTask1_1_1Multiboot__Info.html" title="Multiboot information." alt="" coords="149,99,315,127"/>
+<area shape="rect" id="node6" href="$structTask1_1_1AOut__Symbol__Table.html" title="Symbol table for a.out executables." alt="" coords="5,6,208,34"/>
+<area shape="rect" id="node8" href="$structTask1_1_1ELF__Section__Header__Table.html" title="Section header table for ELF executables." alt="" coords="232,6,480,34"/>
+</map>

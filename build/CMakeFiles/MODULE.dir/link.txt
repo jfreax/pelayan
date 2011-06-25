@@ -1,0 +1,2 @@
+/usr/bin/ar cr libMODULE.a  CMakeFiles/MODULE.dir/extern/zlib-1.2.5/deflate.c.o
+/usr/bin/ranlib libMODULE.a

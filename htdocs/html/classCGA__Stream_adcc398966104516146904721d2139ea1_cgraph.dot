@@ -1,0 +1,16 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="CGA_Stream::newl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="CGA_Screen::getpos",height=0.2,width=0.4,color="black",URL="$classCGA__Screen.html#aa855a96a726654e7cde6a5ae6561efa5"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="CGA_Screen::setpos",height=0.2,width=0.4,color="black",URL="$classCGA__Screen.html#ac9b905c0488f0cd04ab189d766351ed0"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="CGA_Screen::scrollup",height=0.2,width=0.4,color="black",URL="$classCGA__Screen.html#a3808a301813e3e1b6368ab75a94ea652"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="CGA_Screen::attrib",height=0.2,width=0.4,color="black",URL="$classCGA__Screen.html#aeb2ed01a8ec0eb4a0d245c6759184089"];
+}

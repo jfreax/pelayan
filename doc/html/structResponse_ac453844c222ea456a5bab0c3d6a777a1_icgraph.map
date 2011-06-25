@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structResponse.html#ad33a090b0ff1286e944de6f088307262" title="Response::response" alt="" coords="248,55,405,83"/>
+<area shape="rect" id="node5" href="$structRequest.html#a50558c20615998131eb5d8f5e99cbc88" title="Request::reqParse" alt="" coords="495,5,639,33"/>
+<area shape="rect" id="node19" href="$structResponse.html#a4d8b5527e494612759feafc54d92e06b" title="Response::resRetryWFilename" alt="" coords="453,55,680,83"/>
+<area shape="rect" id="node7" href="$structBuffer.html#a62baf30a0040857f478a304b95f7dfdf" title="Buffer::bufNewline" alt="" coords="729,5,876,33"/>
+<area shape="rect" id="node9" href="$structBuffer.html#aea6bbcad454ee02282887ccbfdeb88e7" title="Buffer::bufInit" alt="" coords="933,5,1048,33"/>
+<area shape="rect" id="node17" href="$structBuffer.html#a1f2ea157462834f7516eb6483a34cac2" title="Buffer::bufWrite" alt="" coords="927,55,1055,83"/>
+<area shape="rect" id="node12" href="$structClient.html#af531e7825f6f5198d94e5ebc7fe3cb61" title="Client::clAdd" alt="" coords="1292,5,1399,33"/>
+<area shape="rect" id="node14" href="$structResponse.html#a3a18cbf5e5ca68c49b91d946ce394c6b" title="Response::resInit" alt="" coords="1104,30,1243,58"/>
+</map>

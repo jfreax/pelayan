@@ -1,0 +1,10 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Locker",height=0.2,width=0.4,color="black",URL="$classLocker.html",tooltip="Atomic locking variable."];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Guard",height=0.2,width=0.4,color="black",URL="$classGuard.html",tooltip="Interrupt synchronisation handler."];
+}

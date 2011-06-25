@@ -1,0 +1,116 @@
+#!/usr/bin/python
+#
+# Test for webserver application
+#
+# Useage: testWebserver.py <host> <port> [nr connections=25] [req. file=/index.html]
+#
+# At first, several connections are established, but only the first part of a request
+# is send. Now, the following steps are accomplished:
+#   - complete about half of the requests, read the answer and close connection
+#   - close one connection after incomplete request
+#   - close one connection after completing the request but without reading the answer
+#   - complete one request, read and print the answer
+#   - complete the rest of the requests, read the answer and close the connections
+#
+# In between theses steps, a browser should be used to verify that the webserver 
+# functions properly.
+#
+# Author: Timo Lindhorst <lindhors AT ivs.cs.ovgu.de>
+# Version: 0.1
+
+import sys, socket, random
+
+file = "/index.html"
+number = 25
+connections = []
+
+if len (sys.argv) < 3:
+	print "use: %s <host> <port> [nr connections=25] [req. file=/index.html]" % sys.argv[0]
+	sys.exit(1)
+
+host = sys.argv[1]
+port = int(sys.argv[2])
+if len(sys.argv) > 3:
+	number = int(sys.argv[3])
+
+if len(sys.argv) > 4:
+	file = sys.argv[4]
+
+class Connection:
+	def __init__ (self, host, port):
+		self.sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+		self.sock.connect((host, port))
+		self.connected = True
+		self.answer = ""
+		self.file = file
+
+	def initReq(self):
+		self.sock.send("GET")
+
+	def completeReq(self):
+		self.sock.send(" " + self.file + " HTTP/1.0\r\n\r\n")
+
+	def readAnswer(self):
+		while True:
+			buf = self.sock.recv(1024)
+			if not buf: break
+			self.answer += buf
+
+	def printAnswer(self):
+		print self.answer
+	
+	def close(self):
+		self.sock.close()
+		self.connected = False
+
+
+
+for i in range(0,number):
+	try:
+		con = Connection(host, port)
+		con.initReq()
+		#con.completeReq()
+		connections += [con]
+		print "Initiated connection %i" % (i+1)
+	except socket.error, msg:
+		print "Connection %i failed: %s" % (i+1,msg[1])
+		sys.exit(1)
+#sys.exit(1)
+
+raw_input("press Enter to close some connections")
+
+i = 1
+while i <= (number-3)/2:
+	r = random.randint(3,number-1)
+	con = connections[r]
+	if con.connected:
+		i += 1
+		con.completeReq()
+		print "Completed request on connection %i" % (r+1)
+		con.readAnswer()
+		con.close()
+
+if number>3:
+	raw_input("press Enter to close connection 1 before request is complete")
+	connections[0].close()
+
+	raw_input("press Enter to close connection 2 without reading the answer")
+	connections[1].completeReq()
+	connections[1].close()
+
+	raw_input("press Enter to read and print the answer of connection 3")
+	connections[2].completeReq()
+	connections[2].readAnswer()
+	connections[2].printAnswer()
+	connections[2].close()
+
+raw_input("press Enter to complete the rest of the requests and close connections")
+
+i=1
+for con in connections:
+	if con.connected:
+		con.completeReq()
+		print "Completed request on connection %i" % i
+		con.readAnswer()
+		con.close()
+	i += 1

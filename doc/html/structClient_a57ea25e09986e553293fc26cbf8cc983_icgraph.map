@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structClient.html#af531e7825f6f5198d94e5ebc7fe3cb61" title="Client::clAdd" alt="" coords="207,55,313,83"/>
+<area shape="rect" id="node14" href="$structClient.html#a67588979bb67b2029558ca5dc5a5a377" title="Client::clPop" alt="" coords="207,106,313,134"/>
+<area shape="rect" id="node5" href="$structServer.html#adb92a1c65d51acd1bbae57867fb4ffbc" title="Server::srvAccept" alt="" coords="363,55,504,83"/>
+<area shape="rect" id="node11" href="$structServer.html#a7cc80a3238933d9e3424786319cde87c" title="Server::srvInit" alt="" coords="555,5,672,33"/>
+<area shape="rect" id="node7" href="$structServer.html#a3af8b347c989209ca4617ee4f6db3f55" title="Server::srvRun" alt="" coords="553,55,673,83"/>
+<area shape="rect" id="node9" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="724,30,820,58"/>
+<area shape="rect" id="node16" href="$structClient.html#a1c3d2cd19a3c4dc95e238a476a75ed9a" title="Client::clDelete" alt="" coords="371,106,496,134"/>
+</map>

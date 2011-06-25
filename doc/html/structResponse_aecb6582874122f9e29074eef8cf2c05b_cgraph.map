@@ -1,0 +1,25 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structRequest.html#a8040d15208a13a48632c9323e0584fef" title="Request::reqCalcRealFilename" alt="" coords="280,435,507,463"/>
+<area shape="rect" id="node5" href="$structResponse.html#a0735f41f650e4a0f3dff85b26aec75e3" title="Response::response" alt="" coords="315,486,472,514"/>
+<area shape="rect" id="node7" href="$structClient.html#a5a71e07837642785fc1fa3c906be6641" title="Client::clDelete" alt="" coords="607,131,732,159"/>
+<area shape="rect" id="node19" href="$structCompress.html#a0ed2cdac6e32b1893d6bb986087beb0c" title="Compress::cprInit" alt="" coords="599,309,740,337"/>
+<area shape="rect" id="node21" href="$structRequest.html#a3e5d99816a844b54870b949ef133b5b8" title="Request::reqGetFileType" alt="" coords="576,359,763,387"/>
+<area shape="rect" id="node23" href="$structResponse.html#a9196ca37512073ab12a3f1d0604d00b4" title="Response::resAddConnection" alt="" coords="560,410,779,438"/>
+<area shape="rect" id="node25" href="$structResponse.html#af412275d3ecc110ec13a1cef30fb7903" title="Response::resAddEncoding" alt="" coords="567,461,772,489"/>
+<area shape="rect" id="node27" href="$structResponse.html#a056ba9e8415e693fb71d2050ca95ede6" title="Response::resAddLength" alt="" coords="575,511,764,539"/>
+<area shape="rect" id="node29" href="$structResponse.html#aed141a145714552b89c386aaff5d443e" title="Response::resAddNewLocation" alt="" coords="555,562,784,590"/>
+<area shape="rect" id="node31" href="$structResponse.html#ac01b79b7e9e30b9d2760e936c09a0e4e" title="Response::resAddStatus" alt="" coords="577,613,761,641"/>
+<area shape="rect" id="node33" href="$structResponse.html#a90c582d3daeead0fb68cc384781604e3" title="Response::resAddType" alt="" coords="583,663,756,691"/>
+<area shape="rect" id="node37" href="$structResponse.html#ac0ede3f5c546e4d166446be33b9a463f" title="Response::resClose" alt="" coords="593,714,745,742"/>
+<area shape="rect" id="node40" href="$structResponse.html#a5965b95b0d4ff2f33a5dcd0c25c5026f" title="Response::resSendFile" alt="" coords="583,258,756,286"/>
+<area shape="rect" id="node49" href="$structResponse.html#aa1c03e4e367f7a7e92f0faddcd12f81a" title="Response::resSendHeader" alt="" coords="569,765,769,793"/>
+<area shape="rect" id="node9" href="$structBuffer.html#aafeb7abc9a5efb42f635bfd1ce511174" title="Buffer::bufDel" alt="" coords="891,5,1005,33"/>
+<area shape="rect" id="node11" href="$structClient.html#ad5ef034ece8fad9b6c63917babb1e961" title="Client::clPop" alt="" coords="895,55,1001,83"/>
+<area shape="rect" id="node13" href="$structCompress.html#a95898c0e81588af5fa5ca6b25c4b063a" title="Compress::cprDel" alt="" coords="877,207,1019,235"/>
+<area shape="rect" id="node15" href="$structRequest.html#a70d3e4849cd7fa700424ba8ecd164504" title="Request::reqDel" alt="" coords="883,106,1013,134"/>
+<area shape="rect" id="node17" href="$structResponse.html#af79882d4238ed5a756bf23f2e052ab79" title="Response::resDel" alt="" coords="879,157,1017,185"/>
+<area shape="rect" id="node35" href="$structResponse.html#ab351012a831b8274a92856bc09902100" title="Response::resAddAcceptRange" alt="" coords="832,663,1064,691"/>
+<area shape="rect" id="node43" href="$structCompress.html#a87697ac2962119c4bd642b510cfa529c" title="Compress::cprGetNext" alt="" coords="861,258,1035,286"/>
+<area shape="rect" id="node45" href="$structResponse.html#a68277b0981745f4d62f8e9dcd767e203" title="Response::resSendChunksize" alt="" coords="839,309,1057,337"/>
+<area shape="rect" id="node47" href="$structResponse.html#a63ac9b985f46a615ea6a05c10f8fda2a" title="Response::resSendEnd" alt="" coords="860,359,1036,387"/>
+</map>

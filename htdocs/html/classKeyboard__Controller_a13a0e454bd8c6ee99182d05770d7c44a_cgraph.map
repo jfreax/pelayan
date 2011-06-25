@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classIO__Port.html#a77b7915e167487c31150a4c4b9a15496" title="IO_Port::inb" alt="" coords="683,24,781,52"/>
+<area shape="rect" id="node5" href="$classKeyboard__Controller.html#a6c899104be6bfebd7b73629af61106cd" title="Keyboard_Controller::set_led" alt="" coords="385,75,601,103"/>
+<area shape="rect" id="node10" href="$classKeyboard__Controller.html#aa213c738efd52d7986fb925e6aaa7d95" title="Keyboard_Controller::set_repeat_rate" alt="" coords="357,24,629,52"/>
+<area shape="rect" id="node8" href="$classIO__Port.html#a63edbd1cd64f3188c448e32408c2681c" title="IO_Port::outb" alt="" coords="677,75,787,103"/>
+</map>

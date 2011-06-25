@@ -1,0 +1,37 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="IO_Port::inb",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="PIC::allow",height=0.2,width=0.4,color="black",URL="$classPIC.html#a62ac9996c8ecfca65e2529655050b26b",tooltip="allow a specific hardware interrupt"];
+  Node2 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Keyboard::plugin",height=0.2,width=0.4,color="black",URL="$classKeyboard.html#a6d362a122a7c417ff1a5c60152746d61",tooltip="storage for fetched keys"];
+  Node1 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="PIC::forbid",height=0.2,width=0.4,color="black",URL="$classPIC.html#a62503865c7a32537d9cc3e71d4c439cd",tooltip="forbid a specific hardware interrupt"];
+  Node1 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="CGA_Screen::getpos",height=0.2,width=0.4,color="black",URL="$classCGA__Screen.html#a24100dcfd2bb05a4812df157c0db3a3e"];
+  Node1 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="PIC::isAllowed",height=0.2,width=0.4,color="black",URL="$classPIC.html#a58681e4ca1091539b15471974b8a9a10",tooltip="returns interupt slot status"];
+  Node1 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Keyboard_Controller::key_hit",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#a78cf6859d88097a0f2b6945fc86c1d21"];
+  Node7 -> Node8 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Task1::testKeyboard",height=0.2,width=0.4,color="black",URL="$classTask1.html#a587ce3fad20f9ec4ec88beefd08db49e",tooltip="test the functionality of the Keyboard_Controller object"];
+  Node8 -> Node9 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Task1::action",height=0.2,width=0.4,color="black",URL="$classTask1.html#a0d4029a13591e70af436c0ead066ea5c",tooltip="parse and print multiboot information"];
+  Node1 -> Node10 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Keyboard_Controller::Keyboard_Controller",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#a13a0e454bd8c6ee99182d05770d7c44a"];
+  Node1 -> Node11 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="Keyboard_Controller::reboot",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#a686dd47e66ae9c2d9ccf1b9f84d3e99d",tooltip="Reboots the computer using a keyboard controller command."];
+  Node1 -> Node12 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="Keyboard_Controller::set_led",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#a6c899104be6bfebd7b73629af61106cd"];
+  Node12 -> Node13 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node13 [label="Keyboard_Controller::key_decoded",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#aa517065c0ed4059b477dfb481539b1b2"];
+  Node13 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 -> Node10 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node14 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node14 [label="Keyboard_Controller::set_repeat_rate",height=0.2,width=0.4,color="black",URL="$classKeyboard__Controller.html#aa213c738efd52d7986fb925e6aaa7d95"];
+  Node14 -> Node10 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

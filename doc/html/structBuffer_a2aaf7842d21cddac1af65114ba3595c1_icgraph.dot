@@ -1,0 +1,34 @@
+digraph G
+{
+  bgcolor="transparent";
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir=LR;
+  Node1 [label="Buffer::bufNewline",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Buffer::bufInit",height=0.2,width=0.4,color="black",URL="$structBuffer.html#ab8501a3e19d440f8b8745a03a859b4c8"];
+  Node2 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Buffer::bufReset",height=0.2,width=0.4,color="black",URL="$structBuffer.html#a3138daa1ce10dccb3566251ffab742d8"];
+  Node3 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="Request::reqTestCompletness",height=0.2,width=0.4,color="black",URL="$structRequest.html#ae7c72d7a8e1b2f585445460334f7c210"];
+  Node4 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="Server::srvRun",height=0.2,width=0.4,color="black",URL="$structServer.html#a5fd020f6b3d0e9126fc1feb039bec404"];
+  Node5 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="Main::main",height=0.2,width=0.4,color="black",URL="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627"];
+  Node2 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="Client::clAdd",height=0.2,width=0.4,color="black",URL="$structClient.html#a517beb6363df101c03416bf906d1c735"];
+  Node7 -> Node8 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="Server::srvAccept",height=0.2,width=0.4,color="black",URL="$structServer.html#aa1c268fdbdf7ccd5aceec88f24eaeb2b"];
+  Node8 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 -> Node9 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="Server::srvInit",height=0.2,width=0.4,color="black",URL="$structServer.html#a0ab8b78cd782d9acca948cade19b06ea"];
+  Node9 -> Node6 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node10 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Client::clAdjustSize",height=0.2,width=0.4,color="black",URL="$structClient.html#ab91ac822c4e44054e36ab4223bd9ef79"];
+  Node10 -> Node7 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 -> Node9 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node1 -> Node11 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="Buffer::bufWrite",height=0.2,width=0.4,color="black",URL="$structBuffer.html#a3e5337ba8db19f59ed7a292a21e88a17"];
+  Node11 -> Node5 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

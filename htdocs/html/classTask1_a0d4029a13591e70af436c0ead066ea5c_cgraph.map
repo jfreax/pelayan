@@ -1,0 +1,23 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classTask1.html#af4e3f3b3085e350a5e939da4dba2738d" title="parse and print the multiboot information" alt="" coords="165,5,331,33"/>
+<area shape="rect" id="node7" href="$classCGA__Screen.html#ac9b905c0488f0cd04ab189d766351ed0" title="CGA_Screen::setpos" alt="" coords="1001,182,1159,210"/>
+<area shape="rect" id="node13" href="$classTask1.html#a587ce3fad20f9ec4ec88beefd08db49e" title="test the functionality of the Keyboard_Controller object" alt="" coords="168,398,328,426"/>
+<area shape="rect" id="node51" href="$classTask1.html#a48ca608ac9cdc03ab6614a4f61e2448e" title="test the functionality of the Kout object" alt="" coords="185,271,311,299"/>
+<area shape="rect" id="node5" href="$classTask1.html#a33f61914bf73c0cb7d159db1152dfe29" title="check the multiboot infromation struct for provided information" alt="" coords="417,5,556,33"/>
+<area shape="rect" id="node9" href="$classCGA__Screen.html#a3808a301813e3e1b6368ab75a94ea652" title="CGA_Screen::scrollup" alt="" coords="1263,258,1428,286"/>
+<area shape="rect" id="node11" href="$classCGA__Screen.html#aeb2ed01a8ec0eb4a0d245c6759184089" title="CGA_Screen::attrib" alt="" coords="1477,359,1627,387"/>
+<area shape="rect" id="node15" href="$classCGA__Stream.html#a73572f5377a28f09ee9dc3af7b5a65b9" title="CGA_Stream::flush" alt="" coords="413,334,560,362"/>
+<area shape="rect" id="node24" href="$classCGA__Screen.html#aa855a96a726654e7cde6a5ae6561efa5" title="CGA_Screen::getpos" alt="" coords="1000,511,1160,539"/>
+<area shape="rect" id="node35" href="$classKeyboard__Controller.html#a78cf6859d88097a0f2b6945fc86c1d21" title="Keyboard_Controller::key_hit" alt="" coords="379,613,595,641"/>
+<area shape="rect" id="node49" href="$classKey.html#a4292f24b142a697e610fb7780a0dc9d5" title="Key::valid" alt="" coords="443,511,531,539"/>
+<area shape="rect" id="node18" href="$classCPU.html#a23c8f5e46dac3304f1d8def9c612b88e" title="globally dissable interrupts" alt="" coords="705,309,836,337"/>
+<area shape="rect" id="node20" href="$classCPU.html#ab5e5a2260ef84a433c181786f11c4609" title="globally enable interrupts" alt="" coords="707,359,835,387"/>
+<area shape="rect" id="node22" href="$classCGA__Stream.html#adcc398966104516146904721d2139ea1" title="CGA_Stream::newl" alt="" coords="697,207,844,235"/>
+<area shape="rect" id="node27" href="$classCGA__Screen.html#a169347ad29e4739b98f98fe703298f5a" title="CGA_Screen::print" alt="" coords="699,258,843,286"/>
+<area shape="rect" id="node32" href="$classStringbuffer.html#a1318360e349f0fd98f686f4c5fdc191e" title="Stringbuffer::reset" alt="" coords="699,410,843,438"/>
+<area shape="rect" id="node37" href="$classIO__Port.html#a77b7915e167487c31150a4c4b9a15496" title="IO_Port::inb" alt="" coords="1296,638,1395,666"/>
+<area shape="rect" id="node39" href="$classKeyboard__Controller.html#aa517065c0ed4059b477dfb481539b1b2" title="Keyboard_Controller::key_decoded" alt="" coords="643,613,899,641"/>
+<area shape="rect" id="node41" href="$classKeyboard__Controller.html#ac2b33ffe1e2794c81249861aa792513a" title="Keyboard_Controller::get_ascii_code" alt="" coords="947,613,1213,641"/>
+<area shape="rect" id="node43" href="$classKeyboard__Controller.html#a6c899104be6bfebd7b73629af61106cd" title="Keyboard_Controller::set_led" alt="" coords="972,562,1188,590"/>
+<area shape="rect" id="node46" href="$classIO__Port.html#a63edbd1cd64f3188c448e32408c2681c" title="IO_Port::outb" alt="" coords="1291,562,1400,590"/>
+</map>

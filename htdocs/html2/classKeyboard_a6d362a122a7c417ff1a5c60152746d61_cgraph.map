@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classPIC.html#a62ac9996c8ecfca65e2529655050b26b" title="allow a specific hardware interrupt" alt="" coords="212,30,300,58"/>
+<area shape="rect" id="node9" href="$classPlugbox.html#a7f48e4645e6709fe2030aaa79eb0d3f1" title="assign a Gate object to a specific interrupt" alt="" coords="192,81,320,109"/>
+<area shape="rect" id="node5" href="$classIO__Port.html#a77b7915e167487c31150a4c4b9a15496" title="IO_Port::inb" alt="" coords="373,5,472,33"/>
+<area shape="rect" id="node7" href="$classIO__Port.html#a63edbd1cd64f3188c448e32408c2681c" title="IO_Port::outb" alt="" coords="368,55,477,83"/>
+</map>

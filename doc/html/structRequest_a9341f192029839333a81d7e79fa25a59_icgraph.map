@@ -1,0 +1,16 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structResponse.html#ad33a090b0ff1286e944de6f088307262" title="Response::response" alt="" coords="472,169,629,197"/>
+<area shape="rect" id="node35" href="$structResponse.html#a4969c079a47cf29ec09a15bfa04f03da" title="Response::resSendType" alt="" coords="241,194,423,222"/>
+<area shape="rect" id="node5" href="$structRequest.html#a50558c20615998131eb5d8f5e99cbc88" title="Request::reqParse" alt="" coords="719,67,863,95"/>
+<area shape="rect" id="node16" href="$structServer.html#a3af8b347c989209ca4617ee4f6db3f55" title="Server::srvRun" alt="" coords="1884,81,2004,109"/>
+<area shape="rect" id="node31" href="$structResponse.html#a4d8b5527e494612759feafc54d92e06b" title="Response::resRetryWFilename" alt="" coords="677,194,904,222"/>
+<area shape="rect" id="node7" href="$structBuffer.html#a2aaf7842d21cddac1af65114ba3595c1" title="Buffer::bufNewline" alt="" coords="953,67,1100,95"/>
+<area shape="rect" id="node9" href="$structBuffer.html#ab8501a3e19d440f8b8745a03a859b4c8" title="Buffer::bufInit" alt="" coords="1151,42,1265,70"/>
+<area shape="rect" id="node26" href="$structBuffer.html#a3e5337ba8db19f59ed7a292a21e88a17" title="Buffer::bufWrite" alt="" coords="1320,93,1448,121"/>
+<area shape="rect" id="node12" href="$structClient.html#af531e7825f6f5198d94e5ebc7fe3cb61" title="Client::clAdd" alt="" coords="1520,17,1627,45"/>
+<area shape="rect" id="node23" href="$structResponse.html#a3a18cbf5e5ca68c49b91d946ce394c6b" title="Response::resInit" alt="" coords="1315,42,1453,70"/>
+<area shape="rect" id="node14" href="$structServer.html#adb92a1c65d51acd1bbae57867fb4ffbc" title="Server::srvAccept" alt="" coords="1693,42,1835,70"/>
+<area shape="rect" id="node20" href="$structServer.html#a7cc80a3238933d9e3424786319cde87c" title="Server::srvInit" alt="" coords="1885,5,2003,33"/>
+<area shape="rect" id="node18" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="2055,43,2151,71"/>
+<area shape="rect" id="node28" href="$structBuffer.html#a3ad74f5bd4df54b1f2433e93198f7110" title="Buffer::bufWriteID" alt="" coords="1501,93,1645,121"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structBuffer.html#aafeb7abc9a5efb42f635bfd1ce511174" title="Buffer::bufDel" alt="" coords="192,5,307,33"/>
+<area shape="rect" id="node5" href="$structClient.html#a67588979bb67b2029558ca5dc5a5a377" title="Client::clPop" alt="" coords="196,55,303,83"/>
+<area shape="rect" id="node9" href="$structCompress.html#a3b0ab7e2bda0a2f723ef48db1546f77c" title="Compress::cprDel" alt="" coords="179,106,320,134"/>
+<area shape="rect" id="node11" href="$structRequest.html#a0c9e2440cbd1ed09ee92b842eb31befa" title="Request::reqDel" alt="" coords="184,157,315,185"/>
+<area shape="rect" id="node13" href="$structResponse.html#a33034c5ca0f47c83b593cb93db980f7d" title="Response::resDel" alt="" coords="180,207,319,235"/>
+<area shape="rect" id="node7" href="$structClient.html#a57ea25e09986e553293fc26cbf8cc983" title="Client::clAdjustSize" alt="" coords="368,55,520,83"/>
+</map>

@@ -1,0 +1,60 @@
+<html>
+  <head>
+    <title>KuN - Chat</title>
+    <link rel="stylesheet" type="text/css" href="./chat/style.css">
+    <script type="text/javascript" src="./concode.js"></script>
+    <script type="text/javascript" src="./chat/code.js"></script>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+    <script type="text/javascript">
+      window.onerror = Fehlerbehandlung;
+
+      function Fehlerbehandlung(text, file, lineNo) {
+      alert("Error:\n" + text + "\n\nFile:\n" + file + "@" + lineNo);
+      return (true);
+      }
+    </script>
+  </head>
+
+  <body onload="initialize();">
+    <center>
+      <div class="Chat">
+	<table width="100%">
+	  <tr>
+	    <td colspan="3" align="center"><h>KuN - Chat</h></td>
+	  </tr>
+
+	  <tr>
+	    <td colspan="2">
+	      <div id="Frame" class="Frame">
+		<div id="MessagePanel" class="MessagePanel">
+		</div>
+	      </div>
+	    </td>
+	    <td width="160" colspan="2" rowspan="2">
+	      <div id="ControlPanel" class="ControlPanel">
+		<div class="ControlHead">Nick:</div>
+		<div><input class="Text"   style="width: 100%;" id="txtNick" type="text" onkeypress="txtNick_KeyPress();"></div>
+		<div><input class="Button" style="width: 100%;" id="btnNick" type="submit" value="Nick setzen" onclick="setNick();"></div>
+
+
+		<div class="ControlHead">Farbe:</div>
+		<table width="100%"><tr><td height="20" bgcolor="#FFFF00" id="colbox"></td></tr></table>
+		<div id="ColorTable" style="width: 100%;height: 200px;"></div>
+
+	      </div>
+	    </td>
+	  </tr>
+	  <tr>
+	    <td>
+	      <input style="width: 100%" class="Text" id="txtMsg" type="text">
+	    </td>
+	    <td width="160">
+	      <input style="width: 100%" id="btnSubmit" class="Button" type="submit" value="Abschicken" onclick="sendChatMessage();">
+	    </td>
+	  </tr>
+	  <table>
+      </div>
+    </center>
+  </body>
+</html>

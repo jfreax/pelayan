@@ -1,0 +1,10 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structBuffer.html#aea6bbcad454ee02282887ccbfdeb88e7" title="Buffer::bufInit" alt="" coords="204,55,319,83"/>
+<area shape="rect" id="node20" href="$structBuffer.html#a1f2ea157462834f7516eb6483a34cac2" title="Buffer::bufWrite" alt="" coords="373,106,501,134"/>
+<area shape="rect" id="node6" href="$structClient.html#af531e7825f6f5198d94e5ebc7fe3cb61" title="Client::clAdd" alt="" coords="556,30,663,58"/>
+<area shape="rect" id="node17" href="$structResponse.html#a3a18cbf5e5ca68c49b91d946ce394c6b" title="Response::resInit" alt="" coords="368,5,507,33"/>
+<area shape="rect" id="node8" href="$structServer.html#adb92a1c65d51acd1bbae57867fb4ffbc" title="Server::srvAccept" alt="" coords="712,55,853,83"/>
+<area shape="rect" id="node14" href="$structServer.html#a7cc80a3238933d9e3424786319cde87c" title="Server::srvInit" alt="" coords="904,5,1021,33"/>
+<area shape="rect" id="node10" href="$structServer.html#a3af8b347c989209ca4617ee4f6db3f55" title="Server::srvRun" alt="" coords="903,55,1023,83"/>
+<area shape="rect" id="node12" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="1073,30,1169,58"/>
+</map>

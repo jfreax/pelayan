@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node4" href="$structConnections.html" title="Connections" alt="" coords="88,193,192,221"/>
+<area shape="rect" id="node2" href="$structServer.html" title="Server" alt="" coords="171,286,237,314"/>
+<area shape="rect" id="node7" href="$structResponse.html" title="Response" alt="" coords="5,6,91,34"/>
+<area shape="rect" id="node9" href="$structRequest.html" title="Request" alt="" coords="115,6,192,34"/>
+<area shape="rect" id="node11" href="$structCompress.html" title="Compress" alt="" coords="216,6,304,34"/>
+<area shape="rect" id="node13" href="$structBuffer.html" title="Buffer" alt="" coords="328,6,392,34"/>
+</map>

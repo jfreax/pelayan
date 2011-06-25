@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdeflate.a  CMakeFiles/deflate.dir/extern/zlib-1.2.5/deflate.c.o
+/usr/bin/ranlib libdeflate.a

@@ -1,0 +1,7 @@
+<map id="G" name="G">
+<area shape="rect" id="node2" href="$classKeyboard__Controller.html" title="Keyboard driver" alt="" coords="31,115,188,143"/>
+<area shape="rect" id="node4" href="$classIO__Port.html" title="IO_Port" alt="" coords="5,6,75,34"/>
+<area shape="rect" id="node6" href="$classKey.html" title="Key" alt="" coords="113,6,159,34"/>
+<area shape="rect" id="node8" href="$classGate.html" title="Interrupt handling base class." alt="" coords="212,115,265,143"/>
+<area shape="rect" id="node10" href="$classChain.html" title="Single linked list element." alt="" coords="208,6,269,34"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structClient.html#a1c3d2cd19a3c4dc95e238a476a75ed9a" title="Client::clDelete" alt="" coords="160,5,285,33"/>
+<area shape="rect" id="node5" href="$structServer.html#a3af8b347c989209ca4617ee4f6db3f55" title="Server::srvRun" alt="" coords="335,5,455,33"/>
+<area shape="rect" id="node7" href="$structMain.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main::main" alt="" coords="505,5,601,33"/>
+</map>

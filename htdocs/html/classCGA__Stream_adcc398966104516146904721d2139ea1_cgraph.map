@@ -1,0 +1,6 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCGA__Screen.html#aa855a96a726654e7cde6a5ae6561efa5" title="CGA_Screen::getpos" alt="" coords="200,5,360,33"/>
+<area shape="rect" id="node5" href="$classCGA__Screen.html#ac9b905c0488f0cd04ab189d766351ed0" title="CGA_Screen::setpos" alt="" coords="201,55,359,83"/>
+<area shape="rect" id="node7" href="$classCGA__Screen.html#a3808a301813e3e1b6368ab75a94ea652" title="CGA_Screen::scrollup" alt="" coords="409,55,575,83"/>
+<area shape="rect" id="node9" href="$classCGA__Screen.html#aeb2ed01a8ec0eb4a0d245c6759184089" title="CGA_Screen::attrib" alt="" coords="624,55,773,83"/>
+</map>

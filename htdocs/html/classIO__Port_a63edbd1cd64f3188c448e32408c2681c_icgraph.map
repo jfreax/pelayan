@@ -1,0 +1,17 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classPIC.html#a971ac4dfe7e40a7296a7fed2bbf4d7bd" title="acknowledge the handling of a pending interrupt" alt="" coords="261,5,336,33"/>
+<area shape="rect" id="node5" href="$classPIC.html#a62ac9996c8ecfca65e2529655050b26b" title="allow a specific hardware interrupt" alt="" coords="255,55,343,83"/>
+<area shape="rect" id="node9" href="$classPIC.html#a62503865c7a32537d9cc3e71d4c439cd" title="forbid a specific hardware interrupt" alt="" coords="253,106,344,134"/>
+<area shape="rect" id="node11" href="$classCGA__Screen.html#a24100dcfd2bb05a4812df157c0db3a3e" title="CGA_Screen::getpos" alt="" coords="219,157,379,185"/>
+<area shape="rect" id="node13" href="$classPIC.html#a17f4ad355d60ae1fefa1ef70625d530c" title="Default Constructor." alt="" coords="263,207,335,235"/>
+<area shape="rect" id="node15" href="$classKeyboard__Controller.html#a686dd47e66ae9c2d9ccf1b9f84d3e99d" title="Reboots the computer using a keyboard controller command." alt="" coords="193,258,404,286"/>
+<area shape="rect" id="node17" href="$classKeyboard__Controller.html#a6c899104be6bfebd7b73629af61106cd" title="Keyboard_Controller::set_led" alt="" coords="191,309,407,337"/>
+<area shape="rect" id="node29" href="$classKeyboard__Controller.html#aa213c738efd52d7986fb925e6aaa7d95" title="Keyboard_Controller::set_repeat_rate" alt="" coords="163,359,435,387"/>
+<area shape="rect" id="node32" href="$classCGA__Screen.html#a41c8affe7c56e45c275de798c94e1d4c" title="CGA_Screen::setpos" alt="" coords="220,410,377,438"/>
+<area shape="rect" id="node7" href="$classKeyboard.html#a6d362a122a7c417ff1a5c60152746d61" title="storage for fetched keys" alt="" coords="567,55,703,83"/>
+<area shape="rect" id="node19" href="$classKeyboard__Controller.html#aa517065c0ed4059b477dfb481539b1b2" title="Keyboard_Controller::key_decoded" alt="" coords="507,309,763,337"/>
+<area shape="rect" id="node27" href="$classKeyboard__Controller.html#a13a0e454bd8c6ee99182d05770d7c44a" title="Keyboard_Controller::Keyboard_Controller" alt="" coords="483,359,787,387"/>
+<area shape="rect" id="node21" href="$classKeyboard__Controller.html#a78cf6859d88097a0f2b6945fc86c1d21" title="Keyboard_Controller::key_hit" alt="" coords="835,309,1051,337"/>
+<area shape="rect" id="node23" href="$classTask1.html#a587ce3fad20f9ec4ec88beefd08db49e" title="test the functionality of the Keyboard_Controller object" alt="" coords="1099,309,1259,337"/>
+<area shape="rect" id="node25" href="$classTask1.html#a0d4029a13591e70af436c0ead066ea5c" title="parse and print multiboot information" alt="" coords="1307,309,1419,337"/>
+</map>

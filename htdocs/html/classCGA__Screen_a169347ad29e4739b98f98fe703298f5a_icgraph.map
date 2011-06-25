@@ -1,0 +1,8 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classCGA__Stream.html#a73572f5377a28f09ee9dc3af7b5a65b9" title="CGA_Stream::flush" alt="" coords="201,81,348,109"/>
+<area shape="rect" id="node5" href="$classTask3.html#addb62f1b1f8c1dea771600155bdc13f1" title="prints the line" alt="" coords="421,5,533,33"/>
+<area shape="rect" id="node7" href="$classTask2.html#aa5de17846032b02d6d0819cdc78b1b3e" title="prints the line" alt="" coords="421,55,533,83"/>
+<area shape="rect" id="node9" href="$classTask1.html#a587ce3fad20f9ec4ec88beefd08db49e" title="test the functionality of the Keyboard_Controller object" alt="" coords="397,106,557,134"/>
+<area shape="rect" id="node13" href="$classTask1.html#a48ca608ac9cdc03ab6614a4f61e2448e" title="test the functionality of the Kout object" alt="" coords="415,157,540,185"/>
+<area shape="rect" id="node11" href="$classTask1.html#a0d4029a13591e70af436c0ead066ea5c" title="parse and print multiboot information" alt="" coords="605,131,717,159"/>
+</map>

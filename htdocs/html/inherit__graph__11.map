@@ -1,0 +1,4 @@
+<map id="G" name="G">
+<area shape="rect" id="node1" href="$classLocker.html" title="Atomic locking variable." alt="" coords="5,5,72,33"/>
+<area shape="rect" id="node3" href="$classGuard.html" title="Interrupt synchronisation handler." alt="" coords="120,5,184,33"/>
+</map>

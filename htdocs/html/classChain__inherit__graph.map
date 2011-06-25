@@ -1,0 +1,5 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$classGate.html" title="Interrupt handling base class." alt="" coords="68,83,121,111"/>
+<area shape="rect" id="node5" href="$classKeyboard.html" title="Keyboard driver with interrupt support" alt="" coords="5,161,91,189"/>
+<area shape="rect" id="node7" href="$classPanic.html" title="Default interrupt handler." alt="" coords="115,161,171,189"/>
+</map>

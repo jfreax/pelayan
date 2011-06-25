@@ -1,0 +1,9 @@
+<map id="G" name="G">
+<area shape="rect" id="node3" href="$structBuffer.html#ab8501a3e19d440f8b8745a03a859b4c8" title="Buffer::bufInit" alt="" coords="529,5,644,33"/>
+<area shape="rect" id="node7" href="$structClient.html#a517beb6363df101c03416bf906d1c735" title="Client::clAdd" alt="" coords="172,55,279,83"/>
+<area shape="rect" id="node5" href="$structBuffer.html#a2aaf7842d21cddac1af65114ba3595c1" title="Buffer::bufNewline" alt="" coords="695,5,841,33"/>
+<area shape="rect" id="node10" href="$structClient.html#ab91ac822c4e44054e36ab4223bd9ef79" title="Client::clAdjustSize" alt="" coords="328,55,480,83"/>
+<area shape="rect" id="node15" href="$structRequest.html#a11d134a091214f97d05a4a112abb6ba9" title="Request::reqInit" alt="" coords="340,106,468,134"/>
+<area shape="rect" id="node17" href="$structResponse.html#a33835932b036d57040f789b982afa1ec" title="Response::resInit" alt="" coords="335,157,473,185"/>
+<area shape="rect" id="node12" href="$structBuffer.html#aafeb7abc9a5efb42f635bfd1ce511174" title="Buffer::bufDel" alt="" coords="529,55,644,83"/>
+</map>
