@@ -64,7 +64,8 @@ int ftAddCategorie( char* categorie )
 
 const char* ftGetCat( const char* type )
 {
-	for ( int i = 0; i < filetypes.categories; ++i ) {
+	int i = 0;
+	for ( ; i < filetypes.categories; ++i ) {
 		struct Tokenizer* tok = tkInit( filetypes.allTypes[i], ' ' );
 		char* str = NULL;
 		
